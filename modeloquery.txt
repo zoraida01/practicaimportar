@@ -1,0 +1,11 @@
+tabla
+
+con estos campos
+calves primarias
+foraneas
+luego los querys
+
+script con la creacion de las tablas y los querys.
+
+creta 3 tablas
+
